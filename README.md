@@ -1,10 +1,5 @@
-# wtf-gulp-starter
+# wtf
 
-`npm install -g gulp-cli`
+nocny_dziennik - nazwa robocza
 
-`npm install`
-
-`gulp`
-
-To publish your page using github pages use `npm run deploy`
-"# nocny_dziennik" 
+edytor odporny na odświeżanie - ćwiczenie w ramach wtf
